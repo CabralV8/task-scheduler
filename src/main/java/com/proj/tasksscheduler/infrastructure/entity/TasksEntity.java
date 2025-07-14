@@ -19,7 +19,7 @@ public class TasksEntity {
     private String taskName;
     private String description;
     private LocalDateTime creationDate;
-    private LocalDateTime eventeDate;
+    private LocalDateTime eventDate;
     private String userEmail;
     private LocalDateTime alterationDate;
     private StatusNotificationEnum statusNotificationEnum;
